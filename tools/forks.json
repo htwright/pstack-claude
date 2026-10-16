@@ -210,6 +210,12 @@
       "since": "0.9.24",
       "upstream": "not-proposed"
     },
+    "plugins/pstack/skills/principle-build-the-lever/SKILL.md": {
+      "kind": "policy",
+      "why": "Requires executable semantic controls for each claimed comparison output and missing or empty observations before accepting an experiment's comparison results.",
+      "since": "0.9.89",
+      "upstream": "not-proposed"
+    },
     "plugins/pstack/skills/principle-prove-it-works/SKILL.md": {
       "kind": "policy",
       "why": "Adds checks that the process behind a result was sound, that a failing check fails for the predicted reason, and that a success report rests on the real state and exit code rather than truncated output.",
