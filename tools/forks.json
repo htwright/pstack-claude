@@ -212,7 +212,7 @@
     },
     "plugins/pstack/skills/principle-build-the-lever/SKILL.md": {
       "kind": "policy",
-      "why": "Requires executable semantic controls for each claimed comparison output and missing or empty observations before accepting an experiment's comparison results.",
+      "why": "Requires executable semantic controls for each claimed comparison output and refusal or inconclusive results when required observations are missing.",
       "since": "0.9.89",
       "upstream": "not-proposed"
     },
